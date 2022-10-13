@@ -4,22 +4,31 @@
 
  <br>
  
-| | ✨ Habilidades| | 
+- ✨ **Habilidades**
+
+| |  | |
 | :---| :---:| ---:|
 | ![React](https://img.icons8.com/color/38/000000/react-native.png)| ![Node](https://img.icons8.com/color/38/000000/nodejs.png) | ![javascript](https://img.icons8.com/ios-filled/38/FAB005/javascript.png)|
 |![Html](https://img.icons8.com/color/38/000000/html-5--v1.png) | ![Css](https://img.icons8.com/color/38/000000/css3.png)| ![C](https://img.icons8.com/color/38/000000/c-plus-plus.png)|
+| | |
 
 <br>
 
-| |📦**Banco de Dados**| |
+- 📦**Banco de Dados**
+
+| | | |
 |:---|:---:|---:|
 | ![Mysql](https://img.icons8.com/color/38/000000/mysql-logo.png)| ![Postgrees](https://img.icons8.com/color/38/000000/postgreesql.png) | - |
+| | |
 
 <br>
 
-| |⚙️**Ferramentas de Desenvolvimento**| |
+- ⚙️**Ferramentas de Desenvolvimento**
+
+| | | |
 |:--- |:---:    | ---:|
 |     |![vscode](https://img.icons8.com/ios-glyphs/38/22C3E6/visual-studio.png)|     |
+| | |
 
 <br>
 
